@@ -8,6 +8,7 @@ public class MediappBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MediappBackendApplication.class, args);
+		
 	}
 
 }
